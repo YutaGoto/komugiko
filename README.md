@@ -16,5 +16,6 @@ Please download .zip and run application/komugiko.app!
   I made Komugiko wo Konetamonos Controller. You use Allow keys.
 * Right: move right
 * Left : move left
-  こむぎこをこねたものコントローラを作ってみました。矢印キーで動かせます。
+
+こむぎこをこねたものコントローラを作ってみました。矢印キーで動かせます。
 
