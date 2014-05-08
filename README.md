@@ -21,4 +21,5 @@ Please download .zip and run application/komugiko.app!
 
 2014.05.08
   I made Increasing Komugiko wo Konetamono.
+
   こむぎこをこねたものが増殖します。 /komugikoIncrease の中にあります。
