@@ -23,3 +23,11 @@ Please download .zip and run application/komugiko.app!
   I made Increasing Komugiko wo Konetamono.
 
   こむぎこをこねたものが増殖します。 /komugikoIncrease の中にあります。
+
+2014.05.13
+  I made Komugiko Mario game. This app has many bugs.
+* Right: move right.
+* Left: move left.
+* Up: Komugiko jumps.
+
+  こむぎこをこねたものマリオです。バグだらけでだしちゃっていいものなのだろうか？
