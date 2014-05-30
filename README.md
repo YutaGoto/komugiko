@@ -31,3 +31,8 @@ Please download .zip and run application/komugiko.app!
 * Up: Komugiko jumps.
 
   こむぎこをこねたものマリオです。バグだらけでだしちゃっていいものなのだろうか？
+
+2014.05.31
+  I fix Komugiko jumps of Komugiko Mario game.
+
+  こむごここねたものマリオ。上を連続で押したままにしても空高く飛ばないようになりました。
