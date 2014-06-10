@@ -36,3 +36,8 @@ Please download .zip and run application/komugiko.app!
   I fix Komugiko jumps of Komugiko Mario game.
 
   こむごここねたものマリオ。上を連続で押したままにしても空高く飛ばないようになりました。
+
+2014.06.10
+  I made a hole and a block of Komugiko Mario game
+
+  こむぎこをこねたものマリオ更新！落とし穴と道ばたのブロックを追加しました。
