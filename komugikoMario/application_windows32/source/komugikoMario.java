@@ -67,7 +67,7 @@ public void draw(){
     yj += 0.3f;
   }
   if(y > -52){
-    if(x>400 && x<450){
+    if(x>370 && x<480){
       yj = 0;
       flagj = false;
     }else{

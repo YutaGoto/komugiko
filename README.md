@@ -40,4 +40,5 @@ Please download .zip and run application/komugiko.app!
 2014.06.10
   I made a hole and a block of Komugiko Mario game
 
-  こむぎこをこねたものマリオ更新！落とし穴と道ばたのブロックを追加しました。
+  こむぎこをこねたものマリオ更新！落とし穴と道ばたのブロックを追加しました。ダッシュジャンプに骨が必要です。
+
