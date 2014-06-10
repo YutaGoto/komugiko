@@ -28,7 +28,7 @@ Please download .zip and run application/komugiko.app!
   I made Komugiko Mario game. This app has many bugs.
 * Right: move right.
 * Left: move left.
-* Up: Komugiko jumps.
+* z: Komugiko jumps.
 
   こむぎこをこねたものマリオです。バグだらけでだしちゃっていいものなのだろうか？
 
@@ -40,5 +40,5 @@ Please download .zip and run application/komugiko.app!
 2014.06.10
   I made a hole and a block of Komugiko Mario game
 
-  こむぎこをこねたものマリオ更新！落とし穴と道ばたのブロックを追加しました。ダッシュジャンプにコツが必要です。
+  こむぎこをこねたものマリオ更新！落とし穴と道ばたのブロックを追加しました。ダッシュジャンプにコツが必要です。ジャンプは上キーじゃなくて”z”キーになりました。
 
